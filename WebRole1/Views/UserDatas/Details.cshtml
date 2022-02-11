@@ -1,0 +1,50 @@
+﻿@model WebRole1.Models.UserData
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>UserData</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberOfWins)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberOfWins)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberOfDefaeats)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberOfDefaeats)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberOfDraws)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumberOfDraws)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.UserId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
