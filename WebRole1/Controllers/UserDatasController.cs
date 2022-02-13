@@ -18,7 +18,8 @@ namespace WebRole1
         // GET: UserDatas
         public ActionResult Index()
         {
-            Insert.GenerateData();
+            //Insert.GenerateData();
+            PVP.GamePlay();
             return View(db.UserDatas.ToList());
         }
 

@@ -154,6 +154,7 @@
     <Compile Include="Models\TitleMaster.cs" />
     <Compile Include="Models\UserData.cs" />
     <Compile Include="Programs\Insert.cs" />
+    <Compile Include="Programs\PVP.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Controllers\UserDatasController.cs" />
     <Compile Include="WebRole.cs" />

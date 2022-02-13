@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="CCS_Game_Task_2" generation="1" functional="0" release="0" Id="8c2d1a67-a094-48f0-b5df-6f07247c6a8b" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="CCS_Game_Task_2" generation="1" functional="0" release="0" Id="a91c14ce-d062-4f0e-b190-992c2a968c3c" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="CCS_Game_Task_2Group" generation="1" functional="0" release="0">
       <componentports>
@@ -70,9 +70,9 @@
     </group>
   </groups>
   <implements>
-    <implementation Id="5ea1a4f5-dde2-4229-9df8-53ab1a42b324" ref="Microsoft.RedDog.Contract\ServiceContract\CCS_Game_Task_2Contract@ServiceDefinition">
+    <implementation Id="cbcd6f6e-08a2-40f3-898a-e37a22f10a06" ref="Microsoft.RedDog.Contract\ServiceContract\CCS_Game_Task_2Contract@ServiceDefinition">
       <interfacereferences>
-        <interfaceReference Id="01a0be8e-ce30-440f-bc93-e786d933ae7f" ref="Microsoft.RedDog.Contract\Interface\WebRole1:Endpoint1@ServiceDefinition">
+        <interfaceReference Id="680bf33a-3898-4c8d-a997-9adbfb64a364" ref="Microsoft.RedDog.Contract\Interface\WebRole1:Endpoint1@ServiceDefinition">
           <inPort>
             <inPortMoniker name="/CCS_Game_Task_2/CCS_Game_Task_2Group/WebRole1:Endpoint1" />
           </inPort>

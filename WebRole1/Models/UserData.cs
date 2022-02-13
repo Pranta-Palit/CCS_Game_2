@@ -11,10 +11,10 @@ namespace WebRole1.Models
 		public int NumberOfDefaeats { get; set; }
 		public int NumberOfDraws { get; set; }
 
-		//public override string ToString()
-		//{
-		//	return "[" + UserId + " - " + UserName + " - " + RankPoints + "]";
-		//}
+        public override string ToString()
+        {
+            return UserId;
+        }
 
-	}
+    }
 }
