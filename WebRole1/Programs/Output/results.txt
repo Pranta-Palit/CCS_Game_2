@@ -1,0 +1,40 @@
+[Self Win State:-1]
+Player1 = 0dsg0f1i5w win=0 loss=1 draw=0
+Player2 = stbb9hbims win=1 loss=0 draw=0
+
+[Self Win State:1]
+Player1 = 0dsg0f1i5w win=1 loss=1 draw=0
+Player2 = mo28i596ns win=0 loss=1 draw=0
+
+[Self Win State:0]
+Player1 = 0dsg0f1i5w win=1 loss=1 draw=1
+Player2 = 1kphhcu8y3 win=0 loss=0 draw=1
+
+[Self Win State:1]
+Player1 = 0dsg0f1i5w win=2 loss=1 draw=1
+Player2 = d44kfv6do0 win=0 loss=1 draw=1
+
+[Self Win State:0]
+Player1 = 0dsg0f1i5w win=2 loss=1 draw=2
+Player2 = 8fygzt80mc win=0 loss=0 draw=2
+
+[Self Win State:1]
+Player1 = 0dsg0f1i5w win=3 loss=1 draw=2
+Player2 = apcn4z2972 win=0 loss=1 draw=2
+
+[Self Win State:-1]
+Player1 = 0dsg0f1i5w win=3 loss=2 draw=2
+Player2 = i3ne1p07fy win=1 loss=0 draw=2
+
+[Self Win State:0]
+Player1 = 0dsg0f1i5w win=3 loss=2 draw=3
+Player2 = 4qa49cm5dj win=0 loss=0 draw=3
+
+[Self Win State:-1]
+Player1 = 0dsg0f1i5w win=3 loss=3 draw=3
+Player2 = g4eaii4hog win=1 loss=0 draw=3
+
+[Self Win State:-1]
+Player1 = 0dsg0f1i5w win=3 loss=4 draw=3
+Player2 = 7c5j4f68g6 win=1 loss=0 draw=3
+
