@@ -15,7 +15,7 @@ namespace WebRole1.Models
         }
 
         public DbSet<UserData> UserDatas { get; set; }
-        public DbSet<TitleDataHeld> TitleDataHelds { get; set; }
+        public DbSet<TitleData> TitleDatas { get; set; }
         public DbSet<TitleMaster> TitleMasters { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

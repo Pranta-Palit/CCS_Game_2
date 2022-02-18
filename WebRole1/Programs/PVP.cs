@@ -55,6 +55,8 @@ namespace WebRole1.Programs
                         var p2 = db.UserDatas.Find(x.UserId);
                         p2.NumberOfWins = ++x.NumberOfWins;
                         db.SaveChanges();
+
+                        InsertTitleData.addData(x);
                         break;
                     case 1:
                         //self_win = ++self.NumberOfWins;
@@ -67,6 +69,8 @@ namespace WebRole1.Programs
                         var q2 = db.UserDatas.Find(x.UserId);
                         q2.NumberOfDefaeats = ++x.NumberOfDefaeats;
                         db.SaveChanges();
+
+                        InsertTitleData.addData(self);
                         break;
                     case 0:
                         //self_draw = ++self.NumberOfDraws;

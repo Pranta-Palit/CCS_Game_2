@@ -83,8 +83,7 @@ F:\Visual Studio Workstation\Game Workspace\CCS Game Task 2\WebRole1\obj\Debug\W
 F:\Visual Studio Workstation\Game Workspace\CCS Game Task 2\WebRole1\obj\Debug\WebRole1.csproj.CopyComplete
 F:\Visual Studio Workstation\Game Workspace\CCS Game Task 2\WebRole1\obj\Debug\WebRole1.dll
 F:\Visual Studio Workstation\Game Workspace\CCS Game Task 2\WebRole1\obj\Debug\WebRole1.pdb
-F:\Visual Studio Workstation\Game Workspace\CCS Game Task 2\WebRole1\obj\Debug\WebRole1.Migrations.FkeyTest.resources
-F:\Visual Studio Workstation\Game Workspace\CCS Game Task 2\WebRole1\obj\Debug\WebRole1.csproj.GenerateResource.cache
-F:\Visual Studio Workstation\Game Workspace\CCS Game Task 2\WebRole1\obj\Debug\WebRole1.Migrations.allForeignKeyAdded.resources
 F:\Visual Studio Workstation\Game Workspace\CCS Game Task 2\WebRole1\bin\Westwind.Utilities.dll
 F:\Visual Studio Workstation\Game Workspace\CCS Game Task 2\WebRole1\bin\Westwind.Utilities.xml
+F:\Visual Studio Workstation\Game Workspace\CCS Game Task 2\WebRole1\obj\Debug\WebRole1.Migrations.SchemaAndDataAdded.resources
+F:\Visual Studio Workstation\Game Workspace\CCS Game Task 2\WebRole1\obj\Debug\WebRole1.csproj.GenerateResource.cache

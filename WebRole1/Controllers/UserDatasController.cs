@@ -19,6 +19,7 @@ namespace WebRole1
         public ActionResult Index()
         {
             Insert.GenerateData();
+            InsertMasterTitle.addTitle("Noobie", "Bronze", 1);
             PVP.GamePlay();
             return View(db.UserDatas.ToList());
         }

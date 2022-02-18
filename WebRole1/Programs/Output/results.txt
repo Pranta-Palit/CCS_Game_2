@@ -1,40 +1,212 @@
-[Self Win State:-1]
-Player1 = 0dsg0f1i5w win=0 loss=1 draw=0
-Player2 = stbb9hbims win=1 loss=0 draw=0
+[Self Win State:1]
+Player1 = 2yh4achds5 win=1 loss=0 draw=0
+Player2 = 1hyxr9f5q3 win=0 loss=1 draw=0
 
 [Self Win State:1]
-Player1 = 0dsg0f1i5w win=1 loss=1 draw=0
-Player2 = mo28i596ns win=0 loss=1 draw=0
-
-[Self Win State:0]
-Player1 = 0dsg0f1i5w win=1 loss=1 draw=1
-Player2 = 1kphhcu8y3 win=0 loss=0 draw=1
+Player1 = 2yh4achds5 win=2 loss=0 draw=0
+Player2 = wyzmp8ufby win=0 loss=1 draw=0
 
 [Self Win State:1]
-Player1 = 0dsg0f1i5w win=2 loss=1 draw=1
-Player2 = d44kfv6do0 win=0 loss=1 draw=1
-
-[Self Win State:0]
-Player1 = 0dsg0f1i5w win=2 loss=1 draw=2
-Player2 = 8fygzt80mc win=0 loss=0 draw=2
+Player1 = 2yh4achds5 win=3 loss=0 draw=0
+Player2 = 3kr5xh30yo win=0 loss=1 draw=0
 
 [Self Win State:1]
-Player1 = 0dsg0f1i5w win=3 loss=1 draw=2
-Player2 = apcn4z2972 win=0 loss=1 draw=2
+Player1 = 2yh4achds5 win=4 loss=0 draw=0
+Player2 = bryg2v10d4 win=0 loss=1 draw=0
 
 [Self Win State:-1]
-Player1 = 0dsg0f1i5w win=3 loss=2 draw=2
-Player2 = i3ne1p07fy win=1 loss=0 draw=2
+Player1 = 2yh4achds5 win=4 loss=1 draw=0
+Player2 = pn6tk0nat5 win=1 loss=0 draw=0
+
+[Self Win State:-1]
+Player1 = 2yh4achds5 win=4 loss=2 draw=0
+Player2 = kubkxjchx4 win=1 loss=0 draw=0
+
+[Self Win State:-1]
+Player1 = 2yh4achds5 win=4 loss=3 draw=0
+Player2 = n7i4gj88cj win=1 loss=0 draw=0
+
+[Self Win State:-1]
+Player1 = 2yh4achds5 win=4 loss=4 draw=0
+Player2 = t0bwxr2inj win=1 loss=0 draw=0
 
 [Self Win State:0]
-Player1 = 0dsg0f1i5w win=3 loss=2 draw=3
-Player2 = 4qa49cm5dj win=0 loss=0 draw=3
+Player1 = 2yh4achds5 win=4 loss=4 draw=1
+Player2 = iqoch3u8tn win=0 loss=0 draw=1
 
 [Self Win State:-1]
-Player1 = 0dsg0f1i5w win=3 loss=3 draw=3
-Player2 = g4eaii4hog win=1 loss=0 draw=3
+Player1 = 2yh4achds5 win=4 loss=5 draw=1
+Player2 = iijmmvf55z win=1 loss=0 draw=1
+
+[Self Win State:1]
+Player1 = 92v79chhih win=1 loss=0 draw=0
+Player2 = pgh3rtm6s3 win=0 loss=1 draw=0
 
 [Self Win State:-1]
-Player1 = 0dsg0f1i5w win=3 loss=4 draw=3
-Player2 = 7c5j4f68g6 win=1 loss=0 draw=3
+Player1 = 92v79chhih win=1 loss=1 draw=0
+Player2 = jryqhr6epd win=1 loss=0 draw=0
+
+[Self Win State:1]
+Player1 = 92v79chhih win=2 loss=1 draw=0
+Player2 = 6tihwrqcgc win=0 loss=1 draw=0
+
+[Self Win State:0]
+Player1 = 92v79chhih win=2 loss=1 draw=1
+Player2 = nm283x1giz win=0 loss=0 draw=1
+
+[Self Win State:0]
+Player1 = 92v79chhih win=2 loss=1 draw=2
+Player2 = xxazv8nciy win=0 loss=0 draw=2
+
+[Self Win State:0]
+Player1 = 92v79chhih win=2 loss=1 draw=3
+Player2 = bj15ipk0of win=0 loss=0 draw=3
+
+[Self Win State:1]
+Player1 = 92v79chhih win=3 loss=1 draw=3
+Player2 = e9fuywbed4 win=0 loss=1 draw=3
+
+[Self Win State:0]
+Player1 = 92v79chhih win=3 loss=1 draw=4
+Player2 = gs4msdpeh5 win=0 loss=0 draw=4
+
+[Self Win State:0]
+Player1 = 92v79chhih win=3 loss=1 draw=5
+Player2 = i2mfh48hdb win=0 loss=0 draw=5
+
+[Self Win State:1]
+Player1 = 92v79chhih win=4 loss=1 draw=5
+Player2 = krbhu2gabc win=0 loss=1 draw=5
+
+[Self Win State:-1]
+Player1 = 3udxfaqaeo win=0 loss=1 draw=0
+Player2 = x4o5fkyhib win=1 loss=0 draw=0
+
+[Self Win State:0]
+Player1 = 3udxfaqaeo win=0 loss=1 draw=1
+Player2 = 7trnqrgjau win=0 loss=0 draw=1
+
+[Self Win State:1]
+Player1 = 3udxfaqaeo win=1 loss=1 draw=1
+Player2 = xfnmhdj08k win=0 loss=1 draw=1
+
+[Self Win State:1]
+Player1 = 3udxfaqaeo win=2 loss=1 draw=1
+Player2 = otgj81jaaw win=0 loss=1 draw=1
+
+[Self Win State:0]
+Player1 = 3udxfaqaeo win=2 loss=1 draw=2
+Player2 = k7d987beo2 win=0 loss=0 draw=2
+
+[Self Win State:-1]
+Player1 = 3udxfaqaeo win=2 loss=2 draw=2
+Player2 = i7ez6jn706 win=1 loss=0 draw=2
+
+[Self Win State:1]
+Player1 = 3udxfaqaeo win=3 loss=2 draw=2
+Player2 = ea4k8c9brz win=0 loss=1 draw=2
+
+[Self Win State:1]
+Player1 = 3udxfaqaeo win=4 loss=2 draw=2
+Player2 = 9sw21j5beq win=0 loss=1 draw=2
+
+[Self Win State:1]
+Player1 = 3udxfaqaeo win=5 loss=2 draw=2
+Player2 = ucrs7fxaa6 win=0 loss=1 draw=2
+
+[Self Win State:-1]
+Player1 = 3udxfaqaeo win=5 loss=3 draw=2
+Player2 = 55kws3t684 win=1 loss=0 draw=2
+
+[Self Win State:0]
+Player1 = 2n8tan39on win=0 loss=0 draw=1
+Player2 = qzfmrqcfme win=0 loss=0 draw=1
+
+[Self Win State:1]
+Player1 = 2n8tan39on win=1 loss=0 draw=1
+Player2 = 9moytsfd5i win=0 loss=1 draw=1
+
+[Self Win State:0]
+Player1 = 2n8tan39on win=1 loss=0 draw=2
+Player2 = oua3vd39bd win=0 loss=0 draw=2
+
+[Self Win State:-1]
+Player1 = 2n8tan39on win=1 loss=1 draw=2
+Player2 = wui0b0o61v win=1 loss=0 draw=2
+
+[Self Win State:-1]
+Player1 = 1o3f88hjyx win=0 loss=1 draw=0
+Player2 = kpe9tqz0q1 win=1 loss=0 draw=0
+
+[Self Win State:-1]
+Player1 = 1o3f88hjyx win=0 loss=2 draw=0
+Player2 = cfc9iij0um win=1 loss=0 draw=0
+
+[Self Win State:-1]
+Player1 = 1o3f88hjyx win=0 loss=3 draw=0
+Player2 = gwv422p9ki win=1 loss=0 draw=0
+
+[Self Win State:0]
+Player1 = 1o3f88hjyx win=0 loss=3 draw=1
+Player2 = h1dtjfmgdn win=0 loss=0 draw=1
+
+[Self Win State:-1]
+Player1 = 1o3f88hjyx win=0 loss=4 draw=1
+Player2 = 6umunxygdk win=1 loss=0 draw=1
+
+[Self Win State:1]
+Player1 = 1o3f88hjyx win=1 loss=4 draw=1
+Player2 = 06tgrk9j2b win=0 loss=1 draw=1
+
+[Self Win State:0]
+Player1 = 1o3f88hjyx win=1 loss=4 draw=2
+Player2 = m0nhzznadf win=0 loss=0 draw=2
+
+[Self Win State:0]
+Player1 = 1o3f88hjyx win=1 loss=4 draw=3
+Player2 = hoagr5y998 win=0 loss=0 draw=3
+
+[Self Win State:-1]
+Player1 = 1o3f88hjyx win=1 loss=5 draw=3
+Player2 = neydhfvbpg win=1 loss=0 draw=3
+
+[Self Win State:-1]
+Player1 = eaq5x00744 win=0 loss=1 draw=0
+Player2 = izyjzfmdxe win=1 loss=0 draw=0
+
+[Self Win State:0]
+Player1 = eaq5x00744 win=0 loss=1 draw=1
+Player2 = dfivde26b9 win=0 loss=0 draw=1
+
+[Self Win State:-1]
+Player1 = eaq5x00744 win=0 loss=2 draw=1
+Player2 = 47sxzkn8nk win=1 loss=0 draw=1
+
+[Self Win State:1]
+Player1 = eaq5x00744 win=1 loss=2 draw=1
+Player2 = hfz5t9bgnm win=0 loss=1 draw=1
+
+[Self Win State:1]
+Player1 = eaq5x00744 win=2 loss=2 draw=1
+Player2 = xi6e0pbbzh win=0 loss=1 draw=1
+
+[Self Win State:-1]
+Player1 = eaq5x00744 win=2 loss=3 draw=1
+Player2 = 1qf7i9sb33 win=1 loss=0 draw=1
+
+[Self Win State:-1]
+Player1 = eaq5x00744 win=2 loss=4 draw=1
+Player2 = 8mg1112bfz win=1 loss=0 draw=1
+
+[Self Win State:1]
+Player1 = eaq5x00744 win=3 loss=4 draw=1
+Player2 = ubhmkgjfze win=0 loss=1 draw=1
+
+[Self Win State:-1]
+Player1 = eaq5x00744 win=3 loss=5 draw=1
+Player2 = yrndvnzeho win=1 loss=0 draw=1
+
+[Self Win State:0]
+Player1 = eaq5x00744 win=3 loss=5 draw=2
+Player2 = 5kc61fz6r8 win=0 loss=0 draw=2
 
