@@ -149,6 +149,7 @@
     <Compile Include="Models\TitleData.cs" />
     <Compile Include="Models\TitleMaster.cs" />
     <Compile Include="Models\UserData.cs" />
+    <Compile Include="Programs\GlitchIssue.cs" />
     <Compile Include="Programs\Insert.cs" />
     <Compile Include="Programs\InsertMasterTitle.cs" />
     <Compile Include="Programs\InsertTitleData.cs" />

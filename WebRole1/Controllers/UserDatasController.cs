@@ -18,9 +18,10 @@ namespace WebRole1
         // GET: UserDatas
         public ActionResult Index()
         {
-            Insert.GenerateData();
-            InsertMasterTitle.addTitle("Noobie", "Bronze", 1);
-            PVP.GamePlay();
+            //Insert.GenerateData();
+            //InsertMasterTitle.addTitle("Noobie", "Bronze", 1);
+            //PVP.GamePlay();
+            GlitchIssue.FixGlitch();
             return View(db.UserDatas.ToList());
         }
 
