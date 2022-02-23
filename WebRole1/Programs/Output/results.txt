@@ -1,40 +1,40 @@
-[Self Win State:1]
-Player1 = wt993o18m9 win=1 loss=0 draw=0
-Player2 = gxekw2g75s win=0 loss=1 draw=0
-
-[Self Win State:1]
-Player1 = wt993o18m9 win=2 loss=0 draw=0
-Player2 = tt3nobkaav win=0 loss=1 draw=0
-
-[Self Win State:0]
-Player1 = wt993o18m9 win=2 loss=0 draw=1
-Player2 = rux2s6fece win=0 loss=0 draw=1
+[Self Win State:-1]
+Player1 = ywzrhmx0t7 win=0 loss=1 draw=0
+Player2 = onww2d3073 win=1 loss=0 draw=0
 
 [Self Win State:-1]
-Player1 = wt993o18m9 win=2 loss=1 draw=1
-Player2 = j7nsw0vc3d win=1 loss=0 draw=1
-
-[Self Win State:0]
-Player1 = wt993o18m9 win=2 loss=1 draw=2
-Player2 = 3gn256f8gg win=0 loss=0 draw=2
-
-[Self Win State:0]
-Player1 = wt993o18m9 win=2 loss=1 draw=3
-Player2 = h1c0r1pgfa win=0 loss=0 draw=3
+Player1 = ywzrhmx0t7 win=0 loss=2 draw=0
+Player2 = oz54qx4d59 win=1 loss=0 draw=0
 
 [Self Win State:1]
-Player1 = wt993o18m9 win=3 loss=1 draw=3
-Player2 = 51amcmb0bf win=0 loss=1 draw=3
-
-[Self Win State:0]
-Player1 = wt993o18m9 win=3 loss=1 draw=4
-Player2 = 0gunrbfgk7 win=0 loss=0 draw=4
-
-[Self Win State:0]
-Player1 = wt993o18m9 win=3 loss=1 draw=5
-Player2 = 61irw6vdhh win=0 loss=0 draw=5
+Player1 = ywzrhmx0t7 win=1 loss=2 draw=0
+Player2 = 092qvog8qw win=0 loss=1 draw=0
 
 [Self Win State:-1]
-Player1 = wt993o18m9 win=3 loss=2 draw=5
-Player2 = x7xr2uv9xq win=1 loss=0 draw=5
+Player1 = ywzrhmx0t7 win=1 loss=3 draw=0
+Player2 = x6p7w6acev win=1 loss=0 draw=0
+
+[Self Win State:-1]
+Player1 = ywzrhmx0t7 win=1 loss=4 draw=0
+Player2 = h705whxgmp win=1 loss=0 draw=0
+
+[Self Win State:0]
+Player1 = ywzrhmx0t7 win=1 loss=4 draw=1
+Player2 = jcr0prvg27 win=0 loss=0 draw=1
+
+[Self Win State:-1]
+Player1 = ywzrhmx0t7 win=1 loss=5 draw=1
+Player2 = erjyi5hbpy win=1 loss=0 draw=0
+
+[Self Win State:1]
+Player1 = ywzrhmx0t7 win=2 loss=5 draw=1
+Player2 = k0d0ocq6ac win=0 loss=1 draw=0
+
+[Self Win State:-1]
+Player1 = ywzrhmx0t7 win=2 loss=6 draw=1
+Player2 = dmgp6xp64m win=1 loss=0 draw=0
+
+[Self Win State:1]
+Player1 = ywzrhmx0t7 win=3 loss=6 draw=1
+Player2 = kkxsgb5inq win=0 loss=1 draw=0
 

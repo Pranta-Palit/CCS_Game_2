@@ -9,6 +9,7 @@ namespace WebRole1.Programs
 {
     public class PVP
     {
+        public static List<UserData> participants = new List<UserData>();
         public static void GamePlay()
         {
             GameContext db = new GameContext();
@@ -20,6 +21,7 @@ namespace WebRole1.Programs
                                     .ToList();
 
             UserData self = players[random.Next(0, 100)];
+            participants.Add(self);
 
             List<UserData> opponents = new List<UserData>();
             for(int i=0; i<10; ++i)
@@ -28,6 +30,7 @@ namespace WebRole1.Programs
                 if(self != players[index] && !opponents.Contains(players[index]))
                 {
                     opponents.Add(players[index]);
+                    participants.Add(players[index]);
                 }
                 else
                 {
@@ -100,7 +103,7 @@ namespace WebRole1.Programs
                 //db.SaveChanges();
 
                 File.AppendAllText(path + "results.txt", "[Self Win State:"+self_win_state+"]\nPlayer1 = " + self + " win="+self.NumberOfWins + " loss=" + self.NumberOfDefaeats + " draw=" + self.NumberOfDraws 
-                                                                                 +"\nPlayer2 = " + x + " win="+ x.NumberOfWins + " loss=" + x.NumberOfDefaeats + " draw=" + self.NumberOfDraws + "\n\n");
+                                                                                 +"\nPlayer2 = " + x + " win="+ x.NumberOfWins + " loss=" + x.NumberOfDefaeats + " draw=" + x.NumberOfDraws + "\n\n");
                 //File.Appe(path + "player.txt", "Player = " + self + "\n "  +"]");
 
             }

@@ -1,0 +1,12 @@
+11:49:48.94480	UserDatasController.Index() -> GenerateRank()
+11:49:48.98892	CreateRank.GenerateRank() -> print(result=[1 - LOQHGNCS - 22%]
+[2 - FZKOOFKX - 0%]
+[3 - LRTKBFRI - 0%]
+[4 - MBVVZUEY - 0%]
+[5 - MDPNPMAT - 0%]
+[6 - NABQIHFS - 0%]
+[7 - OODQWUFW - 0%]
+[8 - RQCAEMYG - 0%]
+[9 - VBBYSJZJ - 0%]
+[10 - VEWSCGWI - 0%]
+)
