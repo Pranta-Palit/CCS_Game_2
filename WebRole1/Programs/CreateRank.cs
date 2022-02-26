@@ -24,9 +24,10 @@ namespace WebRole1.Programs
         }
         public static void GenerateRank()
         {
-            GenerateLog.LogMethodCall();
+            GenerateLog.LogMethodCall("Generating Rank");
 
-            string myFile = @"F:\Visual Studio Workstation\Game Workspace\CCS Game Task 2\WebRole1\Programs\Output\Rank.txt";
+            string path = $@"{AppDomain.CurrentDomain.BaseDirectory}\Programs\Output\";
+            
             GameContext db = new GameContext();
 
             List<CreateRank> ranking = new List<CreateRank>();
@@ -52,7 +53,7 @@ namespace WebRole1.Programs
                 Rank += $"[{++i} - {x.RankUserName} - {x.WinRate}%]\n";
             }
 
-            File.WriteAllText(myFile, Rank);
+            File.WriteAllText(path+"rank.txt", Rank);
 
             print(Rank);
         }

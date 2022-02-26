@@ -1,12 +1,43 @@
-11:49:48.94480	UserDatasController.Index() -> GenerateRank()
-11:49:48.98892	CreateRank.GenerateRank() -> print(result=[1 - LOQHGNCS - 22%]
-[2 - FZKOOFKX - 0%]
-[3 - LRTKBFRI - 0%]
-[4 - MBVVZUEY - 0%]
-[5 - MDPNPMAT - 0%]
-[6 - NABQIHFS - 0%]
-[7 - OODQWUFW - 0%]
-[8 - RQCAEMYG - 0%]
-[9 - VBBYSJZJ - 0%]
-[10 - VEWSCGWI - 0%]
+////////////////////////////////////////////////////////////////////////////////
+//
+// CLOUD CREATIVE STUDIOS, INC.
+//
+// (C) 2010 CLOUD CREATIVE STUDIOS, INC.
+//
+// http://cloud-creative-studios.com
+//
+////////////////////////////////////////////////////////////////////////////////
+07:45:08.28730	UserDatasController.Index() -> GenerateUserData(NumberOfUsers=100)
+07:45:10.96130	UserDatasController.Index() -> InsertMasterTitle(id=Noobie, name=Bronze, wins=1)
+07:45:10.98129	UserDatasController.Index() -> GamePlay(/* No parameters */)
+07:45:11.10600	PVP.GamePlay() -> InsertTitleData(player=Adding to Title Data: 
+ UserId: 0fpfpgniot
+)
+07:45:11.26733	PVP.GamePlay() -> InsertTitleData(player=Adding to Title Data: 
+ UserId: 0v86miqci6
+)
+07:45:11.30331	PVP.GamePlay() -> InsertTitleData(player=Adding to Title Data: 
+ UserId: 0fpfpgniot
+)
+07:45:11.31031	PVP.GamePlay() -> InsertTitleData(player=Adding to Title Data: 
+ UserId: njg86owicc
+)
+07:45:11.31732	PVP.GamePlay() -> InsertTitleData(player=Adding to Title Data: 
+ UserId: 0fpfpgniot
+)
+07:45:11.32531	PVP.GamePlay() -> InsertTitleData(player=Adding to Title Data: 
+ UserId: gy8p5fua4i
+)
+07:45:11.33031	UserDatasController.Index() -> FixGlitch(/* No parameters */)
+07:45:11.37990	UserDatasController.Index() -> GenerateRank(/* No parameters */)
+07:45:11.39252	CreateRank.GenerateRank() -> print(result=[1 - LKCMHFZI - 22%]
+[2 - BHHVTQGS - 0%]
+[3 - EYATZOFE - 0%]
+[4 - HKTBENBT - 0%]
+[5 - LWPTPDDB - 0%]
+[6 - NKGFCBPP - 0%]
+[7 - PUZILJOX - 0%]
+[8 - RCJWHTNF - 0%]
+[9 - XDPPRXQC - 0%]
+[10 - XJVBLZTC - 0%]
 )

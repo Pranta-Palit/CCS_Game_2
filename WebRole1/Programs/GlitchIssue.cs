@@ -10,6 +10,8 @@ namespace WebRole1.Programs
     {
         public static void FixGlitch()
         {
+            GenerateLog.LogMethodCall($"Fixing Glitch Issue\n");
+
             GameContext db = new GameContext();
 
             var wins = (from title in db.TitleMasters

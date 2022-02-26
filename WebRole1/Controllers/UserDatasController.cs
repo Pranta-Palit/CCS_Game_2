@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Data.Entity;
+﻿using System.Data.Entity;
 using System.Linq;
 using System.Net;
-using System.Web;
 using System.Web.Mvc;
 using WebRole1.Models;
 using WebRole1.Programs;
@@ -18,8 +14,8 @@ namespace WebRole1
         // GET: UserDatas
         public ActionResult Index()
         {
-            Insert.GenerateData();
-            InsertMasterTitle.addTitle("Noobie", "Bronze", 1);
+            Insert.GenerateUserData(100);
+            Insert.InsertMasterTitle("Noobie", "Bronze", 1);
             PVP.GamePlay();
             GlitchIssue.FixGlitch();
             CreateRank.GenerateRank();
